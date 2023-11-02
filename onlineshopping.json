@@ -1,0 +1,85 @@
+{
+  "Registration": [
+    {
+      "id": 1,
+      "name": "Priyadharshan",
+      "email": "p@gmail.com",
+      "mobile": "9500471965",
+      "password": "123456",
+      "conformpassword": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Nila",
+      "email": "n@gmail.com",
+      "mobile": "8889657430",
+      "password": "123456",
+      "conformpassword": "123456"
+    },
+    {
+      "id": 3,
+      "name": "Dharshan",
+      "email": "a@gmail.com",
+      "mobile": "9563147023",
+      "password": "123456",
+      "conformpassword": "123456"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "image": "./Image/Products/cake.jpeg",
+      "name": "Cup cake",
+      "price": "100"
+    },
+    {
+      "id": 2,
+      "image": "./Image/Products/color.jpg",
+      "name": "Star Cream Cup cake",
+      "price": "200"
+    },
+    {
+      "id": 3,
+      "image": "./Image/Products/blue.jpg",
+      "name": "Blue cream Cup cake",
+      "price": "200"
+    },
+    {
+      "id": 4,
+      "image": "./Image/Products/cake.jpeg",
+      "name": "Cup cake",
+      "price": "100"
+    },
+    {
+      "id": 5,
+      "image": "./Image/Products/color.jpg",
+      "name": "Star Cream Cup cake",
+      "price": "200"
+    },
+    {
+      "id": 6,
+      "image": "./Image/Products/blue.jpg",
+      "name": "Blue cream Cup cake",
+      "price": "200"
+    },
+    {
+      "id": 7,
+      "image": "./Image/Products/cake.jpeg",
+      "name": "Cup cake",
+      "price": "100"
+    },
+    {
+      "id": 8,
+      "image": "./Image/Products/color.jpg",
+      "name": "Star Cream Cup cake",
+      "price": "200"
+    },
+    {
+      "id": 9,
+      "image": "./Image/Products/blue.jpg",
+      "name": "Blue cream Cup cake",
+      "price": "200"
+    }
+  ],
+  "Cart": []
+}
